@@ -1,4 +1,4 @@
-Here is a series of videos to introduce the new Microsoft Purview Data Catalog solution.
+Here is a series of [videos](/Videos/) to introduce the new Microsoft Purview Data Catalog solution.
 
 This series has been made with the aim of helping you get started as quickly as possible with our data governance solution.
 
